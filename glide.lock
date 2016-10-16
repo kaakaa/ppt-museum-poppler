@@ -1,0 +1,10 @@
+hash: 9749221a811eabdcb37d906a0831644bd9b15c3f46bfb4583cd04dc1cf231f08
+updated: 2016-10-16T12:39:58.542222373+09:00
+imports:
+- name: github.com/cheggaaa/go-poppler
+  version: 64319c5e56044f0afc1e77fdcc85c2dccd90f4eb
+- name: github.com/ungerik/go-cairo
+  version: 52550571917ffd0d6d857f28f45f5fe431bdadb6
+  subpackages:
+  - extimage
+testImports: []
